@@ -4,7 +4,7 @@
         <description><![CDATA[What Larrold Likes]]></description>
         <link>https://thegrid.ai/what-larrold-likes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 13:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 13:57:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/what-larrold-likes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://twitter.com/CWHarris7/status/750323358273855488</link>
             <guid isPermaLink="false">13482f2e-fb3f-41bb-bc38-9687c7c0a187</guid>
             <pubDate>Tue, 05 Jul 2016 13:57:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Valkyrie House Old-Fashioned Recipe]]></title>
+            <description><![CDATA[<article><h1>Valkyrie House Old-Fashioned Recipe</h1><p>This recipe is by Robert Simonson. Tell us what you think of it at The New York Times - Dining - Food.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4195654f327d207edb79fc38ad4ad8e4e86341e.jpg"></article>]]></description>
+            <link>http://cooking.nytimes.com/recipes/1017994-valkyrie-house-old-fashioned</link>
+            <guid isPermaLink="false">6f2de572-433d-44a6-a1d9-74cd2771903a</guid>
+            <pubDate>Sun, 03 Jul 2016 14:45:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Drinks: Smoked Manhattan]]></title>
+            <description><![CDATA[<article><h1>Drinks: Smoked Manhattan</h1><p>Our good friends at Gin & Luck were kind enough to mix up a giant batch of Smoked Manhattan's for the WC-003 trip. When you can't have a fire, the next best thing is a fire in a flask. Here's the recipe for the mixologist in you.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/61b31e7329d9521e39e30d7f810f2557d817368f.jpg"></article>]]></description>
+            <link>http://wildernesscollective.com/drinks-smoked-manhattan/</link>
+            <guid isPermaLink="false">a2d7f2cc-a96e-4e15-a416-4df25421f421</guid>
+            <pubDate>Sun, 03 Jul 2016 14:45:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
